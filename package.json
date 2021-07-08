@@ -1,0 +1,16 @@
+{
+  "name": "mstrwebst",
+  "version": "1.0.0",
+  "description": "masterweb",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel src/build index.html"
+  },
+  "author": "ErnieJ",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.12"
+  }
+}
